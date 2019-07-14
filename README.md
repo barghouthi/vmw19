@@ -2,7 +2,7 @@
 
 This repository includes the slides and code I used at the [verification mentoring workshop (VMW 2019)](http://i-cav.org/2019/mentoring/) in NYC.
 
-- The slides are in `vmw19.pdf`
+- The slides are `vmw19.pdf`
 - The Jupyter notebook is `vmw19.ipynb`
 - You will need to install Z3: `pip install z3-solver`
 
